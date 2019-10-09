@@ -3,3 +3,10 @@ a {
   font-size: 16px;
   text-decoration: none;
 }
+
+a:hover {
+  color:black;
+  transition-duration:1s;
+  transition-timing-function:ease-in-out; 
+} 
+
